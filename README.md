@@ -26,6 +26,16 @@
   </div>
 </nav>
     <body> 
+ title {
+    display: none;
+}
+
+body{
+    font-family: "Manjari";
+    font-size: 18px;
+    width: 2000;
+    margin: 0px;
+    background-color: #FFFFFF;
       <h2>¡Sigue nuestro paso a paso!</h2> 
       <img src="Paso a paso rana anura.jpg" alt="W3Schools.com" width="1200" height="600">
       <h2>¡Personaliza tu juego con estas texturas!</h2> 
