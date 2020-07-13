@@ -1,13 +1,8 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
-    <title>Hello, world!</title>
-</head>
+<!DOCTYPE html> 
+<html> 
+    <body> 
+        <h2>HTML Images</h2> 
+        <p>HTML images are defined with the img tag:</p>
+        <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+    </body> 
+</html>
