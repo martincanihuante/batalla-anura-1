@@ -1,14 +1,7 @@
 <!DOCTYPE html> 
 <html> 
-    <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-        <title>BATALLA ANURA</title>
-    </head>
-  <a class="navbar-brand" href="#">Navbar</a>
+ 
+  <a class="navbar-brand" href="#"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
