@@ -3,10 +3,14 @@
     <body> 
         <h2>HTML Images</h2> 
         <img src="Textura final rana 1.jpeg" alt="W3Schools.com" width="104" height="142">
-         <p>HTML images are defined with the img tag:</p>
+         <p>Clan flecha azul</p>
         <h2>HTML Images</h2> 
-        <p>HTML images are defined with the img tag:</p>
         <img src="Textura final rana 2.jpg" alt="W3Schools.com" width="104" height="142">
+        <p>Clan ojos rojos</p>
+        <img src="Textura final rana 2.jpg" alt="W3Schools.com" width="104" height="142">
+        <p>Clan dorada</p>
+        <img src="Textura final rana 2.jpg" alt="W3Schools.com" width="104" height="142">
+        <p>Clan arlequin</p>
          </body> 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
