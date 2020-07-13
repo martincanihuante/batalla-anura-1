@@ -1,0 +1,9 @@
+.grid-container {
+  display: grid;
+  max-height:2000px;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 102px 380px 134px 134px 380px 102px 1fr;
+    grid-template-rows: 98px 197px 79px 22px 79px 22px 79px 22px 83px 22px 78px 120px 76px 1179px 120px 78px;
+  background-color: #FFFFFF;
+  padding: 0px;
+}
