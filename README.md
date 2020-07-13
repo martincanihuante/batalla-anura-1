@@ -27,10 +27,7 @@
 </nav>
     <body> 
  title {
-    display: none;
-}
-
-body{
+    d
     font-family: "Manjari";
     font-size: 18px;
     width: 2000;
