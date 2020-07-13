@@ -4,8 +4,6 @@
         <h2>HTML Images</h2> 
         <p>HTML images are defined with the img tag:</p>
         <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
-    </body> 
-</html>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -31,3 +29,5 @@
     </ul>
   </div>
 </nav>
+ </body> 
+</html>
