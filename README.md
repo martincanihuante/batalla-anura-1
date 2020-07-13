@@ -28,9 +28,9 @@
     <body> 
       <h2>¡Sigue nuestro paso a paso!</h2> 
       <img src="Paso a paso rana anura.jpg" alt="W3Schools.com" width="1200" height="600">
-        <h2>¡Personaliza tu juego con estas texturas!</h2> 
+      <h2>¡Personaliza tu juego con estas texturas!</h2> 
         <img src="Textura final rana 1.jpeg" alt="W3Schools.com" width="150" height="150">
-         <p>Clan flecha azul</p> 
+        <p>Clan flecha azul</p> 
         <img src="Textura final rana 2.jpg" alt="W3Schools.com" width="150" height="150">
         <p>Clan ojos rojos</p>
         <img src="Textura final rana 3.png" alt="W3Schools.com" width="150" height="150">
