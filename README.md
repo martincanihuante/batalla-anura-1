@@ -2,50 +2,6 @@
 <html>
     
 <body>
-
-  <nav class="navbar navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Navbar w/ text</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="card.html">Features</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
-                </li>
-            </ul>
-            <span class="navbar-text">
-            Navbar text with an inline element
-          </span>
-        </div>
-    </nav>
-
-  <div class="row row-cols-1 row-cols-md-3">
-        <div class="col mb-4">
-            <div class="card">
-                <img src="gatitos_lindos_ctm.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a ESTA PAGINA ES DISTINTA card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <a href="pdf-test.pdf" download>Descargar</a>
-                    <a href="Textura final rana 5.png" download>
-                        <img src="Textura final rana 5.png" width="104" height="142">
-                    </a>
-
-  </div>
-        
-     
-  </div>
-   
-   </div>
-
-  </div>
   <a class="navbar-brand" href="#"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
