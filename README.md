@@ -1,10 +1,9 @@
 <!DOCTYPE html> 
 <html> 
     <body> 
-        <h2>HTML Images</h2> 
+        <h2>¡Personaliza tu juego con estas texturas!</h2> 
         <img src="Textura final rana 1.jpeg" alt="W3Schools.com" width="104" height="142">
-         <p>Clan flecha azul</p>
-        <h2>HTML Images</h2> 
+         <p>Clan flecha azul</p> 
         <img src="Textura final rana 2.jpg" alt="W3Schools.com" width="104" height="142">
         <p>Clan ojos rojos</p>
         <img src="Textura final rana 3.png" alt="W3Schools.com" width="104" height="142">
