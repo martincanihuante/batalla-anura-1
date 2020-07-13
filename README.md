@@ -3,7 +3,7 @@
     <body> 
         <h2>HTML Images</h2> 
         <p>HTML images are defined with the img tag:</p>
-        <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+        <img src="Textura final rana 1.jpeg" alt="W3Schools.com" width="104" height="142">
          </body> 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
