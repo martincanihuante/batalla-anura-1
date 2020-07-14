@@ -37,6 +37,27 @@
         <img src="Textura final rana 3.png" alt="W3Schools.com" width="150" height="150">
         <p>Clan dorada</p>
         <img src="Textura final rana 5.png" alt="W3Schools.com" width="150" height="150">
-        <p>Clan arlequin</p>  
+        <p>Clan arlequin</p> 
+    
+          <div class="grid-container">
+            
+            
+<div class="item1"><img src="imagenes/toolbar%20pelada.png" alt="toolbar pelada" width="100%"></div> 
+
+<div class="item2"><ul>
+            <li><a href="https://catalinasgp.github.io/batalla-anura/nenufar.html#">Inicio</a></li>
+            <li><a href="subpage1.html">Tablero</a></li>
+            <li><a href="">Rana saltarina</a></li>
+            <li><a href="">Sapo saltarín</a></li>
+            <li><a href="">Flor de loto</a></li>
+            
+        </ul></div> 
+            
+    <div class="item3" >
+    <h2>Batalla Anura</h2>
+    </div>            
+            
+        </div> 
+    
     </body> 
 </html>
